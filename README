@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1072
+
+A friend of mine was complaining that he closed vim unintentionally too often and wanted some sort of "Are you sure?" type of confirmation.  Thus, I wrote this plugin which will cause you to be prompted to confirm your desire to quit when you execute :q, :x, or :qw.
+
+NOTE:  This plugin requires graphical vim.
